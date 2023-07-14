@@ -1,0 +1,1 @@
+export const quationAction = (payload) => ({type: 'quationAction', payload})

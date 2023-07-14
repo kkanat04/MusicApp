@@ -1,0 +1,1 @@
+export const documention = (payload) => ({type: 'documention', payload})

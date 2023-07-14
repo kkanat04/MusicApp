@@ -1,0 +1,1 @@
+export const PROFILE_GET = (payload) => ({type: 'PROFILE_GET', payload})

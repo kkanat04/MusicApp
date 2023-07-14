@@ -1,0 +1,1 @@
+export const CHANGE_PROFILE = (payload) => ({type: 'CHANGE_PROFILE', payload})

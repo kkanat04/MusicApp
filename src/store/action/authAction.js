@@ -1,0 +1,1 @@
+export const AUTH_USER = (payload) => ({type: 'AUTH_USER', payload})
